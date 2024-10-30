@@ -7,7 +7,7 @@
 #
 Name     : pypi-polyleven
 Version  : 0.8
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/fb/ef/4076b8183b6d69e9cc4c9997952d0a4f118892b7e2b66340d8d8f4127972/polyleven-0.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fb/ef/4076b8183b6d69e9cc4c9997952d0a4f118892b7e2b66340d8d8f4127972/polyleven-0.8.tar.gz
 Summary  : A fast C-implemented library for Levenshtein distance
